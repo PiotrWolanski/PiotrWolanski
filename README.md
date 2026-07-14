@@ -2,125 +2,12 @@
 
 # Hi, I'm Piotr 👋
 
-### Applied Computer Science student | Aspiring Software Developer | Learning by building
+### Applied Computer Science Student  
+### Java & Spring Boot | Backend Development | REST APIs | PostgreSQL | Docker
 
-I am currently preparing for my first commercial programming experience and organizing my older university and learning projects on GitHub.
+I build practical software projects while preparing for my first commercial technical role.
 
-My long-term goal is to build useful software that solves real problems and can be used by many people.
-
-</div>
-
----
-
-## 🚀 About me
-
-- 🎓 Engineering student of Applied Computer Science, specialization: Programming
-- 💻 Interested in software development, backend, web development and practical problem solving
-- 🧠 Learning by building projects, analyzing code and improving older work
-- 🌍 Comfortable working in international environments and communicating in English
-- 🛠️ Familiar with professional tools such as Jira, Confluence and Slack
-- 🎯 Currently looking for my first commercial experience as a developer
-
----
-
-## 🧩 Tech stack
-
-### Languages I have worked with
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js,html,css" />
-</p>
-
-### Tools and technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,flask,vscode,visualstudio" />
-</p>
-
-### Currently learning / target stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,angular" />
-</p>
-
-> 🌀 **Skill tree in progress:**  
-> I am not trying to pretend I know everything already.  
-> I learn fast, ask questions, analyze problems and I am ready to grow into the tools your team needs.
-
----
-
-## 🛠️ What I am focusing on
-
-At this stage, I am building stronger foundations in:
-
-- object-oriented programming
-- backend development
-- Git and GitHub workflow
-- clean project structure
-- debugging and reading existing code
-- writing documentation
-- Docker basics
-- practical web development
-
-I am also interested in learning technologies used in real commercial projects, especially C#, .NET, TypeScript and Angular.
-
----
-
-## 🧭 Learning mindset
-
-A sentence from a senior Java developer I learn with at university stayed with me:
-
-> Every expert was once a student. The difference is time, practice and the number of hours spent solving real problems.
-
-This changed how I think about learning programming. A full-time developer spends around 40 hours a week working with code, systems, tools and problems. That becomes roughly 160 hours a month and almost 2,000 hours a year.
-
-I know I am still at the beginning of my developer path. Some technologies still require documentation, tutorials or research, but I see that as a natural part of the learning process. What matters to me is understanding the logic, asking better questions and spending enough focused time to improve.
-
-My goal is to enter a professional environment where I can turn regular practice, feedback and real project work into long-term skill.
-
----
-
-## 🤖 How I use AI while learning
-
-I use AI tools as a learning assistant, similarly to documentation, tutorials or learning platforms.
-
-AI helps me understand errors, compare possible solutions, improve documentation and organize my learning process.  
-I do not treat it as a replacement for understanding the logic of the code.
-
-My goal is to be able to explain what the code does, why it works and how it can be improved.
-
----
-
-## 💼 Professional background
-
-Before fully moving toward software development, I gained experience in different work environments, including production, logistics, customer-facing roles and project support.
-
-Currently, I work as a Junior Project Support Specialist in an international environment, using tools such as Jira, Confluence and Slack. My work involves following documentation, working with structured processes and communicating with people from different countries and teams.
-
-This background helps me approach programming not only from the technical side, but also from the perspective of communication, responsibility and understanding business processes.
-
----
-
-## 🎯 Current goal
-
-I am looking for my first commercial opportunity in software development.
-
-At this stage, I am open to different areas of programming because my priority is to gain real practical experience, work with more experienced developers and build strong engineering habits.
-
-I am especially interested in:
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge" />
-</p>
-
----
-
-## 🔗 Contact
+My main focus is backend development with Java and Spring Boot, supported by databases, APIs, testing, documentation and containerization.
 
 <p>
   <a href="https://www.linkedin.com/in/piotr-wolański-35228323a/">
@@ -131,10 +18,174 @@ I am especially interested in:
   </a>
 </p>
 
+</div>
+
+---
+
+## 👨‍💻 About me
+
+- 🎓 Final-year Applied Computer Science engineering student, specialization: Programming
+- 💼 Junior Project Support Specialist working in an international IT environment
+- ☕ Currently focused on Java, Spring Boot, REST APIs, PostgreSQL and Docker
+- 🧩 Interested in backend development, business applications and technical problem solving
+- 🌍 Experienced in cross-team communication and working with English and German
+- 🔎 Looking for my first commercial software development or closely related technical role
+
+I enjoy breaking larger problems into smaller, testable steps and understanding how individual parts of an application work together.
+
+---
+
+## 🚀 Featured project
+
+### Product Recommendation System with NLP
+
+An engineering thesis project that processes natural-language product queries and recommends products based on extracted preferences and content similarity.
+
+The system combines backend development, database integration, NLP processing and a web interface.
+
+<p>
+  <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache%20OpenNLP-D22128?style=for-the-badge" />
+</p>
+
+Main areas covered by the project:
+
+- natural-language query processing
+- product preference extraction
+- content-based recommendation
+- REST API development
+- PostgreSQL persistence
+- Docker-based database environment
+- API documentation and testing
+
+<p>
+  <a href="https://github.com/PiotrWolanski/Product_Recommendation_System">
+    <img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧩 Main technology stack
+
+### Backend and databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
+
+### Development tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Additional technologies
+
+I have also used the following technologies in university, learning and personal projects:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,flask,visualstudio" />
+</p>
+
+These technologies are not all at the same level. My current priority is building stronger foundations in Java backend development while maintaining a broader understanding of web and software development.
+
+---
+
+## 🛠️ Current development focus
+
+I am currently improving my skills in:
+
+- designing REST APIs
+- structuring Spring Boot applications
+- working with relational databases
+- debugging and reading existing code
+- writing tests and validating API behavior
+- documenting technical decisions
+- using Git in a structured development workflow
+- running project components with Docker
+- connecting backend, database and frontend layers
+
+---
+
+## 💼 Professional background
+
+I currently work as a Junior Project Support Specialist with German at GlobalLogic.
+
+My work includes operating in an international IT environment, following structured processes, maintaining documentation and communicating across teams using tools such as Jira, Confluence and Slack.
+
+Before moving toward software development, I also gained experience in logistics, production and customer-facing environments.
+
+This background taught me:
+
+- responsibility for assigned tasks
+- attention to detail
+- working under time pressure
+- following technical and operational procedures
+- communicating with people from different teams
+- understanding that software exists to support real users and business processes
+
+---
+
+## 🧠 How I work and learn
+
+I use documentation, debugging tools, tests and AI-assisted tools to research problems and compare possible solutions.
+
+My goal is not only to make code work, but also to understand:
+
+- what the code does
+- why a solution works
+- what assumptions it depends on
+- how it can be tested
+- how it could be improved
+
+I value clear feedback, practical tasks and gradual development toward greater technical independence.
+
+---
+
+## 🎯 Current goal
+
+I am looking for my first commercial opportunity in software development or a closely related technical area.
+
+My primary direction is:
+
+<p>
+  <img src="https://img.shields.io/badge/Java%20Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+I am also open to roles involving application support, API testing, software testing or maintaining business applications, especially when they provide a path toward deeper technical development.
+
 ---
 
 <div align="center">
 
-### Building my developer path one project at a time.
+### Building practical software, one problem at a time.
 
 </div>
